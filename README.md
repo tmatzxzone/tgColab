@@ -5,7 +5,7 @@
 
 ## **📖 CLICK TO OPEN THE NOTEBOOK**
 
- <a href="https://colab.research.google.com/github/tmatzxzone/Telegram-Leecher/blob/main/Telegram_Leecher_v2.ipynb" target="_parent"><img src="https://user-images.githubusercontent.com/125879861/245568025-59b05175-35a7-4c0f-8c15-5e38516bbc4b.png" alt="Open In Colab" height=70px/></a>
+ <a href="https://colab.research.google.com/github/tmatzxzone/tgColab/blob/main/Telegram_Leecher_v2.ipynb" target="_parent"><img src="https://user-images.githubusercontent.com/125879861/245568025-59b05175-35a7-4c0f-8c15-5e38516bbc4b.png" alt="Open In Colab" height=70px/></a>
 
 
 ## **🔖 Based on**
