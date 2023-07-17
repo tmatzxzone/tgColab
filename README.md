@@ -1,6 +1,4 @@
-![](https://user-images.githubusercontent.com/125879861/226649977-85a941f5-6ffe-45a2-8e09-d9f2b558cb17.png)
-
-
+### Backup Old Ver of XronTrix10/Telegram-Leecher 
 ### A Python Project to Transfer Files/Folders to Telegram using Google Colab.
 
 <br>
