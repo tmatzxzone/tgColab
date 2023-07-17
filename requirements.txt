@@ -1,0 +1,11 @@
+asyncio
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+httpx
+pyrogram==2.0.73
+requests
+tgcrypto
+uvloop
+opencv-python
+yt_dlp
